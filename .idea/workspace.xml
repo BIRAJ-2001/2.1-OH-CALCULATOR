@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34081d04-619c-49d1-a9a0-1f9e2e0e3665" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryListMakerModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandLandMarkModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HandStatusModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputCheckerModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainCode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mc2.py" afterDir="false" />
+    <list default="true" id="34081d04-619c-49d1-a9a0-1f9e2e0e3665" name="Changes" comment="First Raw working Code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager" selected="Python.MainCode">
     <configuration name="BinaryListMakerModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

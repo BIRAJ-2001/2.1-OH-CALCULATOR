@@ -26,7 +26,7 @@ while True:
     lmlist = detector.findpos(img)
     if len(lmlist) != 0 :
         x1 = lmlist[4][1]
-        x2 = lmlist[16][1]
+        x2 = lmlist[17][1]
         label = HandStat.label(x1, x2)
         bl = Blist.BinaryList(lmlist, label)
         value, op = Input.statusprocessing(bl)
