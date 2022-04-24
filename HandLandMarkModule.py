@@ -1,7 +1,6 @@
 import cv2
 import mediapipe as mp
 import time
-import protobuf_to_dict as ptd
 
 class HandDetect():
     def __init__(self, mode= False, maxhands=2, complexity=1, detectioncon=0.5, trackingcon=0.5):
